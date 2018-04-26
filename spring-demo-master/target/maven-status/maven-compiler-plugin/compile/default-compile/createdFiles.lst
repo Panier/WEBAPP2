@@ -1,0 +1,7 @@
+pl\lodz\uni\springdemo\api\HelloController.class
+pl\lodz\uni\springdemo\repository\StudentRepository.class
+pl\lodz\uni\springdemo\domain\Student.class
+pl\lodz\uni\springdemo\api\WelcomePageController.class
+pl\lodz\uni\springdemo\service\StudentService.class
+pl\lodz\uni\springdemo\api\StudentsController.class
+pl\lodz\uni\springdemo\SpringDemoApplication.class
